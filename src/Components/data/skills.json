@@ -1,0 +1,23 @@
+
+[
+  {
+    "id":1,
+    "title": "HTML",
+    "imageSrc":"/assets/html.png"
+  },
+  {
+    "id":2,
+    "title": "CSS",
+    "imageSrc": "/assets/css.png"
+  },
+  {
+    "id":3,
+    "title": "JavaScript",
+    "imageSrc": "/assets/javascript.png"
+  },
+  {
+    "id":4,
+    "title": "React",
+    "imageSrc": "/assets/react.png"
+  }
+]
